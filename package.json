@@ -1,0 +1,19 @@
+{
+  "name": "cypress-searching-tests",
+  "version": "1.0.0",
+  "description": "Sample Cypress tests to demo different ways of submitting a form",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "cypressio",
+    "cypress",
+    "testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  }
+}
